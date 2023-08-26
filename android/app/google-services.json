@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109073138416",
+    "project_id": "scholarshipscaping",
+    "storage_bucket": "scholarshipscaping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109073138416:android:a62bfd896830baa1fa3835",
+        "android_client_info": {
+          "package_name": "com.example.scholarship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109073138416-8gb7di6iq3e0kjvkkea2l5pmfmlfsfje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scholarship",
+            "certificate_hash": "dbb60b2e1005bd688b4d9a2ac7791a089e7c1763"
+          }
+        },
+        {
+          "client_id": "109073138416-ftq9muts5khh823q5h9q72caag7dopv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAulUkxCLV5adRKd-G4Z504cw5Tk0eSGBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109073138416-ftq9muts5khh823q5h9q72caag7dopv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
