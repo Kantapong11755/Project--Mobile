@@ -7,7 +7,7 @@ API + Systems.
      * Success.
        * Login + Authen.
        * Qury Scholarships form database.
-       * Edit USer profile.
+       * Edit User profile.
        * Query User profile.
      * In process
        * Search + filter.
